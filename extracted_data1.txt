@@ -1,0 +1,2794 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ICICI Bank Limited 
+CIN-L65190GJ1994PLC021012 
+Registered Ofﬁce: ICICI Bank Tower, Near Chakli Circle, Old Padra Road, Vadodara - 390 007, Gujarat, Phone: 0265-6722239  
+Corporate Ofﬁce: ICICI Bank Towers, Bandra-Kurla Complex, Mumbai - 400 051, Maharashtra, Phone: 022-40088900  
+Website: www.icici.bank.in, Email: companysecretary@icici.bank.in  
+STANDALONE FINANCIAL RESULTS 
+                                                                                                                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(₹ in crore) 
+Sr. 
+No. 
+Particulars 
+Three months ended 
+Year ended 
+March 31, 
+2026 
+December 
+31, 2025 
+March 31, 
+2025 
+March 31, 
+2026 
+March 31, 
+2025 
+(Q4-2026)15 
+(Q3-2026) 
+(Q4-2025)15 
+(FY2026) 
+(FY2025) 
+(Audited) 
+(Unaudited) 
+(Audited) 
+(Audited) 
+(Audited) 
+1. 
+Interest earned (a)+(b)+(c)+(d) 
+43,275.39 
+41,965.84 
+42,430.80 
+169,946.09 
+163,263.78 
+ 
+a) 
+Interest/discount on advances/bills 
+33,358.87 
+32,520.08 
+32,821.33 
+130,605.55 
+126,404.72 
+ 
+b) 
+Income on investments 
+8,203.45 
+8,216.90 
+8,210.18 
+33,592.73 
+32,980.23 
+ 
+c) 
+Interest on balances with Reserve Bank of 
+India and other inter-bank funds 
+775.82 
+672.72 
+706.12 
+2,862.93 
+2,155.82 
+ 
+d) 
+Others 
+937.25 
+556.14 
+693.17 
+2,884.88 
+1,723.01 
+2. 
+Other income 
+7,308.99 
+7,368.16 
+7,260.07 
+30,757.59 
+28,506.70 
+3. 
+TOTAL INCOME (1)+(2) 
+50,584.38 
+49,334.00 
+49,690.87 
+200,703.68 
+191,770.48 
+4. 
+Interest expended 
+20,296.32 
+20,033.60 
+21,237.86 
+81,870.86 
+82,099.34 
+5. 
+Operating expenses (e)+(f) 
+12,088.95 
+11,944.44 
+10,788.76 
+47,233.95 
+42,372.32 
+ 
+e) 
+Employee cost 
+4,468.17 
+4,421.80 
+4,105.18 
+17,974.89 
+16,540.88 
+ 
+f) 
+Other operating expenses 
+7,620.78 
+7,522.64 
+6,683.58 
+29,259.06 
+25,831.44 
+6. 
+TOTAL EXPENDITURE EXCLUDING 
+PROVISIONS AND CONTINGENCIES (4)+(5) 
+32,385.27 
+31,978.04 
+32,026.62 
+129,104.81 
+124,471.66 
+7. 
+OPERATING PROFIT BEFORE PROVISIONS 
+AND CONTINGENCIES (3)–(6) 
+18,199.11 
+17,355.96 
+17,664.25 
+71,598.87 
+67,298.82 
+8. 
+Provisions (other than tax) and contingencies 
+96.16 
+2,555.58 
+890.70 
+5,380.42 
+4,682.62 
+9. 
+PROFIT FROM ORDINARY ACTIVITIES BEFORE 
+EXCEPTIONAL ITEMS AND TAX (7)–(8) 
+18,102.95 
+14,800.38 
+16,773.55 
+66,218.45 
+62,616.20 
+10. 
+Exceptional items 
+.. 
+.. 
+.. 
+.. 
+.. 
+11. 
+PROFIT FROM ORDINARY ACTIVITIES BEFORE 
+TAX (9)–(10) 
+18,102.95 
+14,800.38 
+16,773.55 
+66,218.45 
+62,616.20 
+12. 
+Tax expense (g)+(h) 
+4,401.27 
+3,482.52 
+4,143.97 
+16,071.81 
+15,389.21 
+ 
+g) 
+Current tax 
+4,258.31 
+3,526.76 
+4,052.73 
+15,451.22 
+14,588.49 
+ 
+h) 
+Deferred tax 
+142.96 
+(44.24) 
+91.24 
+620.59 
+800.72 
+13. 
+NET PROFIT FROM ORDINARY ACTIVITIES 
+AFTER TAX (11)–(12) 
+13,701.68 
+11,317.86 
+12,629.58 
+50,146.64 
+47,226.99 
+14. 
+Extraordinary items (net of tax expense) 
+.. 
+.. 
+.. 
+.. 
+.. 
+15. 
+NET PROFIT FOR THE PERIOD (13)–(14) 
+13,701.68 
+11,317.86 
+12,629.58 
+50,146.64 
+47,226.99 
+16. 
+Paid-up equity share capital (face value ₹ 2 
+each) 
+1,432.23 
+1,430.35 
+1,424.60 
+1,432.23 
+1,424.60 
+17. 
+Reserves excluding revaluation reserves 
+  
+  
+  
+329,372.57 
+284,843.68 
+18. 
+Analytical ratios 
+  
+  
+  
+  
+  
+ 
+i) 
+Percentage of shares held by Government 
+of India 
+0.22% 
+0.22% 
+0.22% 
+0.22% 
+0.22% 
+ 
+ii) 
+Capital adequacy ratio (Basel III) 
+17.18% 
+15.59% 
+16.55% 
+17.18% 
+16.55% 
+ 
+iii) 
+Earnings per share (EPS) 
+  
+  
+  
+   
+  
+ 
+ 
+a) 
+Basic EPS before and after 
+extraordinary items, net of tax 
+expense (in ₹) 
+19.15 
+15.84 
+17.87 
+70.21 
+67.01 
+ 
+ 
+b) 
+Diluted EPS before and after 
+extraordinary items, net of tax 
+expense (in ₹) 
+18.90 
+15.62 
+17.60 
+69.20 
+65.89 
+
+--- End of Page ---
+
+2 
+ 
+ 
+1. 
+Customer assets consist of advances and credit substitutes. At March 31, 2026, the percentage of gross non-performing advances 
+(net of write-off) to gross advances was 1.44% (December 31, 2025: 1.57%, March 31, 2025: 1.73%) and net non-performing 
+advances to net advances was 0.35% (December 31, 2025: 0.39%, March 31, 2025: 0.42%). 
+2. 
+Net worth is computed as per RBI Master Circular No. RBI/2015-16/70 DBR.No.Dir.BC.12/13.03.00/2015-16 on Exposure Norms 
+dated July 1, 2015. Net worth also includes Available for Sale (‘AFS’) Reserve. 
+3. 
+Debt represents borrowings with residual maturity of more than one year. 
+4. Total debts represents total borrowings of the Bank. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(₹ in crore) 
+Sr. 
+No. 
+Particulars 
+Three months ended 
+Year ended 
+March 31, 
+2026 
+December 
+31, 2025 
+March 31, 
+2025 
+March 31, 
+2026 
+March 31, 
+2025 
+(Q4-2026)15 
+(Q3-2026) 
+(Q4-2025)15 
+(FY2026) 
+(FY2025) 
+(Audited) 
+(Unaudited) 
+(Audited) 
+(Audited) 
+(Audited) 
+19. 
+NPA Ratio1 
+  
+  
+  
+  
+  
+ 
+i) 
+Gross non-performing customer assets 
+(net of write-off) 
+23,051.93 
+23,757.88 
+24,166.18 
+23,051.93 
+24,166.18 
+ 
+ii) 
+Net non-performing customer assets 
+5,459.46 
+5,731.95 
+5,589.41 
+5,459.46 
+5,589.41 
+ 
+iii) 
+% of gross non-performing customer 
+assets (net of write-off) to gross customer 
+assets 
+1.40% 
+1.53% 
+1.67% 
+1.40% 
+1.67% 
+ 
+iv) 
+% of net non-performing customer assets 
+to net customer assets 
+0.33% 
+0.37% 
+0.39% 
+0.33% 
+0.39% 
+20. 
+Return on assets (annualised) 
+2.40% 
+2.11% 
+2.52% 
+2.33% 
+2.41% 
+21. 
+Net worth2 
+326,794.68 
+313,155.63 
+282,055.56 
+326,794.68 
+282,055.56 
+22. 
+Outstanding redeemable preference shares 
+.. 
+.. 
+.. 
+.. 
+.. 
+23. 
+Capital redemption reserve  
+350.00 
+350.00 
+350.00 
+350.00 
+350.00 
+24. 
+Debt-equity ratio3 
+0.19 
+0.20 
+0.21 
+0.19 
+0.21 
+25. 
+Total debts to total assets4 
+5.27% 
+5.13% 
+5.83% 
+5.27% 
+5.83% 
+
+--- End of Page ---
+
+3 
+ 
+SUMMARISED STANDALONE BALANCE SHEET 
+ 
+                        (₹ in crore) 
+ 
+ 
+ 
+Particulars 
+At 
+March 31, 
+2026 
+December 31, 
+2025 
+March 31, 
+2025 
+(Audited) 
+(Unaudited) 
+(Audited) 
+CAPITAL AND LIABILITIES 
+ 
+ 
+ 
+Capital 
+1,432.23 
+1,430.35 
+1,424.60 
+Employees stock options/units outstanding 
+2,682.07 
+2,498.82 
+2,069.84 
+Reserves and surplus 
+333,257.12 
+319,203.89 
+288,581.86 
+Deposits 
+1,794,624.98 
+1,659,610.94 
+1,610,348.02 
+Borrowings (includes subordinated debt) 
+124,994.11 
+112,334.90 
+123,538.26 
+Other liabilities and provisions 
+115,540.49 
+95,511.13 
+92,277.39 
+TOTAL CAPITAL AND LIABILITIES 
+2,372,531.00 
+2,190,590.03 
+2,118,239.97 
+  
+ 
+ 
+ 
+ASSETS 
+ 
+ 
+ 
+Cash and balances with Reserve Bank of India 
+121,024.05 
+63,668.79 
+119,928.12 
+Balances with banks and money at call and short notice 
+109,311.11 
+82,669.57 
+65,633.88 
+Investments 
+492,217.33 
+494,642.05 
+504,756.74 
+Advances 
+1,553,892.95 
+1,466,153.55 
+1,341,766.16 
+Fixed assets 
+13,922.47 
+13,574.38 
+12,838.74 
+Other assets 
+82,163.09 
+69,881.69 
+73,316.33 
+TOTAL ASSETS 
+2,372,531.00 
+2,190,590.03 
+2,118,239.97 
+
+--- End of Page ---
+
+4 
+ 
+ 
+STANDALONE CASH FLOW STATEMENTS 
+ 
+                        (₹ in crore) 
+ 
+Particulars 
+ 
+Year Ended 
+March 31, 
+2026 
+March 31, 
+2025 
+(FY2026) 
+(FY2025) 
+(Audited) 
+(Audited) 
+Cash ﬂow from/(used in) operating activities 
+ 
+ 
+ 
+Proﬁt/(loss) before taxes 
+ 
+66,218.45 
+62,616.20 
+ 
+ 
+ 
+ 
+Adjustments for: 
+ 
+ 
+ 
+Depreciation and amortisation 
+ 
+2,540.78 
+2,212.50 
+Net (appreciation)/depreciation on investments 
+ 
+534.97 
+125.67 
+Speciﬁc provision for non-performing loans, restructured and other assets 
+ 
+6,208.10 
+4,016.24 
+General provision for standard assets 
+ 
+768.13 
+574.82 
+Provision for contingencies & others 
+ 
+(940.98) 
+(755.92) 
+Employees stock options/units expense 
+ 
+943.11 
+790.15 
+Income from subsidiaries and consolidated entities 
+ 
+(3,458.41) 
+(2,619.01) 
+(Proﬁt)/loss on sale of ﬁxed assets and other assets 
+ 
+(289.92) 
+(42.95) 
+ 
+(i) 
+72,524.23 
+66,917.70 
+ 
+ 
+ 
+ 
+Adjustments for: 
+ 
+ 
+ 
+(Increase)/decrease in investments 
+ 
+28,273.81 
+36,998.74 
+(Increase)/decrease in advances 
+ 
+(218,334.89) 
+(161,381.01) 
+Increase/(decrease) in deposits 
+ 
+184,274.30 
+197,523.07 
+(Increase)/decrease in other assets 
+ 
+(10,062.74) 
+(629.15) 
+Increase/(decrease) in other liabilities and provisions 
+ 
+20,498.87 
+(2,829.50) 
+ 
+(ii) 
+4,649.35 
+69,682.15 
+ 
+ 
+ 
+ 
+Refund/(payment) of direct taxes 
+(iii) 
+(12,447.98) 
+(14,243.34) 
+Net cash ﬂow from/(used in) operating activities (i)+(ii)+(iii) 
+(A) 
+64,725.60 
+122,356.51 
+Cash ﬂow from/(used in) investing activities 
+ 
+ 
+ 
+Redemption/sale from/(investments in) subsidiaries/joint ventures/associates (including 
+application money) 
+ 
+(2,567.92) 
+(1,376.13) 
+Income from subsidiaries and consolidated entities 
+ 
+3,458.41 
+2,619.01 
+Purchase of ﬁxed assets 
+ 
+(2,732.26) 
+(3,370.45) 
+Proceeds from sale of ﬁxed assets 
+ 
+27.56 
+59.63 
+(Purchase)/sale of held-to-maturity securities 
+ 
+(14,513.65) 
+(67,513.87) 
+Net cash ﬂow from/(used in) investing activities  
+(B) 
+(16,327.86) 
+(69,581.81) 
+Cash ﬂow from/(used in) ﬁnancing activities 
+ 
+ 
+ 
+Proceeds from issue of share capital (including ESOPs/ESUSs) 
+ 
+1,360.65 
+1,437.52 
+Proceeds from long-term borrowings 
+ 
+34,783.42 
+28,852.81 
+Repayment of long-term borrowings 
+ 
+(38,638.46) 
+(31,671.94) 
+Net proceeds/(repayment) of short-term borrowings 
+ 
+5,774.91 
+1,127.30 
+Dividend paid 
+ 
+(7,853.15) 
+(7,041.26) 
+Net cash ﬂow from/(used in) ﬁnancing activities   
+ 
+(C) 
+(4,572.63) 
+(7,295.57) 
+Effect of exchange ﬂuctuation on translation reserve 
+(D) 
+948.05 
+156.86 
+ 
+ 
+ 
+ 
+Net increase/(decrease) in cash and cash equivalents (A) + (B) + (C) + (D) 
+ 
+44,773.16 
+45,635.99 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at beginning of the year 
+ 
+185,562.00 
+139,926.01 
+Cash and cash equivalents at end of the year 
+ 
+230,335.16 
+185,562.00 
+ 
+1. 
+Cash and cash equivalents include cash in hand, foreign currency notes, rupee digital currency, balances with RBI, balances with 
+other banks and money at call and short notice. 
+ 
+
+--- End of Page ---
+
+5 
+ 
+Notes on standalone ﬁnancial results: 
+1. 
+The above standalone ﬁnancial results have been approved by the Board of Directors at its meeting held on April 18, 2026. 
+2. 
+The standalone ﬁnancial results have been prepared in accordance with the recognition and measurement principles laid down in 
+Accounting Standards prescribed under Section 133 of the Companies Act, 2013, the relevant provisions of the Banking Regulation 
+Act, 1949, the circulars, guidelines and directions issued by the Reserve Bank of India (“RBI”) from time to time and other accounting 
+principles generally accepted in India, and are in compliance with the presentation and disclosure requirements of the Regulation 
+33 and Regulation 52(4) read with Regulation 63 of the Securities Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (“SEBI Regulations”) as amended including relevant circulars issued by SEBI from time to time. 
+3. 
+Details of resolution plans implemented under the Resolution Framework for Covid-19 related stress as per RBI circular dated 
+August 6, 2020 (Resolution Framework 1.0) and May 5, 2021 (Resolution Framework 2.0) at March 31, 2026 are given below:  
+ 
+                          (₹ in crore) 
+ 
+Type of 
+borrower 
+Exposure to 
+ accounts 
+ classiﬁed as 
+ Standard 
+ consequent to  
+implementation  
+of resolution plan 
+–at September 30, 
+2025 (A) 
+Of (A),  
+aggregate  
+debt that  
+slipped into  
+NPA during  
+six month  
+ended March 31, 
+20261 
+Of (A)  
+amount written  
+off during  
+six month  
+ended   
+March 31, 
+2026 
+Of (A)  
+amount  
+paid by the 
+borrowers  
+during six  
+month  
+ended  
+March 31, 
+20262 
+Exposure to  
+accounts  
+classiﬁed as  
+Standard  
+consequent to   
+implementation  
+of resolution plan  
+at March 31,2026 
+Personal 
+Loans3 
+816.55 
+17.72 
+0.40 
+40.63 
+758.20 
+Corporate 
+Persons4 
+515.40 
+.. 
+.. 
+37.39 
+478.01 
+Of which 
+MSMEs 
+.. 
+.. 
+.. 
+.. 
+.. 
+Others 
+252.42 
+1.10 
+.. 
+(7.86) 
+259.18 
+Total 
+1,584.37 
+18.82 
+0.40 
+70.16 
+1,495.39 
+ 
+1. Includes cases which have been written off during the period. 
+2. Net of increase in exposure during the period. 
+3. Includes various categories of retail loans. 
+4. As deﬁned in Section 3(7) of the Insolvency and Bankruptcy Code, 2016. 
+4. 
+Details of loans sold/acquired by the Bank as per Reserve Bank of India (Commercial Banks – Financial Statements: 
+Presentation and Disclosures) Directions, 2025 dated November 28, 2025 are given below: 
+a) Loans not in default 
+(i) Details of loans not in default sold/acquired under assignment/participation during the year ended March 31, 2026: 
+                         (₹ in crore) 
+ 
+Particulars 
+Loans 
+ acquired 
+Loans 
+ sold 
+Amount of loan 
+11,306.60 
+2,993.08 
+Weighted average residual maturity (in years) 
+8.57 
+5.80 
+Weighted average holding period of the originator (in years) 
+0.77 
+1.62 
+Retention of beneﬁcial economic interest by the originator 
+11,393.28 
+4,260.14 
+Tangible security coverage (times) 
+1.55 
+1.60 
+ 
+1. In addition, the Bank has acquired facilities amounting to ₹ 927.86 crore and sold facilities amounting to ₹ 1,175.60 crore during the year 
+ended March 31, 2026 through novation. 
+2. In addition, the Bank has acquired loans amounting to ₹ 2,241.05 crore through risk participation from secondary market. 
+3. The disclosure includes loans acquired through buyout similar to direct assignment. 
+ 
+ 
+
+--- End of Page ---
+
+6 
+ 
+(ii) Details of rating-wise distribution of the loans sold/acquired under assignment during the year ended March 31, 2026: 
+                         (₹ in crore) 
+ 
+Rating 
+Loans acquired 
+Loans sold 
+IND A-, A+, A, AA, AA+, AA- 
+150.00 
+710.00 
+ICRA A, AA, A+ 
+2,150.00 
+.. 
+Crisil A, A+, AA, AA+, A- 
+49.12 
+973.97 
+Crisil BBB, BBB+ 
+.. 
+207.04 
+CareEdge A 
+.. 
+75.00 
+Infomerics-AA- 
+.. 
+100.00 
+ 
+1. Excluding retail and other unrated loans. 
+b) Stressed loans (NPA and Special Mention Account accounts) 
+(i) Details of stressed loans classiﬁed as NPA sold by the Bank during the year ended March 31, 2026:  
+           (₹ in crore) 
+ 
+Particulars 
+To ARCs 
+To permitted 
+ transferees 
+Number of accounts 
+115 
+1 
+Aggregate principal outstanding of loans transferred2 
+345.00 
+.. 
+Weighted average residual tenor of the loans transferred3 
+.. 
+.. 
+Net book value of loans transferred (at the time of transfer) 
+52.35 
+.. 
+Aggregate consideration 
+245.80 
+282.20 
+Additional consideration realised in respect of accounts transferred in earlier 
+years 
+140.26 
+.. 
+ 
+1. Excess provision reversed to proﬁt and loss account on account of sale of NPAs to ARCs was ₹ 193.45 crore. 
+2. Net of write-off. 
+3. For NPAs, the Bank issues loan recall notice and initiates legal proceedings for recovery, due to which the weighted average residual tenor is 
+not applicable. 
+ 
+(ii) The Bank has not sold/acquired loans classiﬁed as Special Mention Account during the year ended March 31, 2026. 
+(iii) The Bank has not acquired non-performing loans during the year ended March 31, 2026. 
+(iv) Details of rating-wise distribution of SRs held by the Bank at March 31, 2026:  
+           (₹ in crore) 
+ 
+Rating 
+NAV estimate % 
+Carrying 
+value1 
+RR1 
+Above 100% 
+114.79 
+RR2 
+Above 75% upto 100% 
+.. 
+RR3 
+Above 50% upto 75% 
+.. 
+RR4 
+Above 25% upto 50% 
+.. 
+RR5 
+Upto 25% 
+616.73 
+Total 
+ 
+731.52 
+ 
+1. Amount represents net of provisions. 
+2. Further, the Bank holds marked-to-market loss of ₹ 364.39 crore and additional provision of ₹ 367.13 crore. 
+3. The Bank, on a prudent basis, continues to hold provision against the security receipts guaranteed by Government of India which will be 
+reversed on actual receipt of recoveries or approval of claims, if any, by the Government.  
+ 
+ 
+
+--- End of Page ---
+
+7 
+ 
+ 
+5. 
+Details of projects under implementation as per Reserve Bank of India (Commercial Banks - Financial Statements: Presentation and 
+Disclosures) Directions, 2025 dated November 28, 2025 for three months ended March 31, 2026. 
+ 
+          (₹ in crore) 
+ 
+Sr. No. 
+Particulars 
+No of Accounts 
+Total Outstanding1 
+1 
+Projects under implementation accounts at the beginning of the 
+quarter 
+474 
+24,743.39 
+2 
+Projects under implementation accounts sanctioned during the 
+quarter 
+296 
+   
+2,566.77 
+3 
+Projects under implementation accounts where DCCO has been 
+achieved during the quarter 
+12 
+   
+828.71  
+4 
+Projects under implementation accounts at the end of the quarter 
+(1+2-3) 
+758 
+   
+27,392.392 
+5 
+Out of ‘4’ – accounts in respect of which resolution process involving 
+extension in original/extended DCCO, as the case may be has been 
+invoked 
+59 
+   
+892.49  
+5.1 
+Out of ‘5’ – accounts in respect of which Resolution plan has been 
+implemented 
+2 
+   
+70.39 
+5.2 
+Out of ‘5’ – accounts in respect of which Resolution plan is under 
+implementation 
+57 
+   
+822.10 
+5.3 
+Out of ‘5’ – accounts in respect of which Resolution plan has failed 
+.. 
+.. 
+6 
+Out of ‘5’, accounts in respect of which resolution process involving 
+extension in original/extended DCCO has been invoked due to change 
+in scope and size of the project 
+2 
+72.93 
+7 
+Out of ‘5’, accounts in respect of which cost overrun associated with 
+extension in DCCO was funded 
+.. 
+.. 
+7.1 
+Out of ‘7’, accounts where SBCF was sanctioned during ﬁnancial 
+closure and renewed continuously 
+.. 
+.. 
+7.2 
+Out of ‘7’, accounts where SBCF was not pre-sanctioned or renewed 
+continuously 
+.. 
+.. 
+8 
+Out of ‘4’ – accounts in respect of which resolution process not 
+involving extension in DCCO has been invoked 
+5 
+428.73 
+8.1 
+Out of ‘8’ – accounts in respect of which Resolution plan has been 
+implemented 
+.. 
+.. 
+8.2 
+Out of ‘8’ – accounts in respect of which Resolution plan is under 
+implementation 
+5 
+428.73 
+8.3 
+Out of ‘8’ – accounts in respect of which Resolution plan has failed 
+.. 
+.. 
+ 
+1. 
+Represents loans and advances net of provision. 
+2. 
+Includes movement of ₹ 910.94 crore during Q4-2026 in projects under implementation accounts existing at the beginning of the quarter. 
+ 
+ 
+
+--- End of Page ---
+
+8 
+ 
+ 
+6. 
+The following tables set forth, for the periods indicated, necessary details of Co-Lending Arrangements (CLAs) on an aggregate 
+basis as per Reserve Bank of India (Commercial Banks – Transfer and Distribution of Credit Risk) Directions, 2025. 
+                                            (₹ in crore, except percentage) 
+Sr. No 
+Particulars 
+ 
+At March 31, 2026 
+1 
+Quantum of CLAs 
+- Number of CLA partners (No) 
+- Number of outstanding cases (No) 
+- Amount of Gross outstanding (₹) 
+ 
+4 
+11,051 
+1,538.011 
+2 
+Weighted average rate of interest (%) 
+8.87% 
+3 
+Fees paid during the quarter (₹) 
+2.98 
+4 
+Broad sectors in which CLA was made 
+Home Loan,  
+Loan against property, 
+Business Loan  
+5 
+Performance of loans under CLA 
+- Standard loans (₹) 
+- Non-Performing loans (₹) 
+ 
+1,461.941 
+76.071 
+6 
+Details related to default loss guarantee (if any) (₹) 
+.. 
+1. Net of write-off. 
+ 
+7. 
+At March 31, 2026, the Bank holds contingency provision of ₹ 13,100.00 crore (December 31, 2025: ₹ 13,100.00 crore and March 
+31, 2025: ₹ 13,100.00 crore). 
+8. 
+During FY2025, pursuant to the Scheme of Arrangement amongst ICICI Bank Limited and ICICI Securities Limited and their 
+respective shareholders (‘the Scheme’), ICICI Securities Limited has been delisted from stock exchanges on March 24, 2025 and 
+became a wholly-owned subsidiary of the Bank. The Bank issued 56,008,117 equity shares of the Bank of face value ₹ 2 each in 
+accordance with the Scheme to the public shareholders of ICICI Securities Limited. In accordance with the Scheme, the Bank 
+recognised a securities premium of ₹ 6,887.60 crore based on the market price of equity shares (at effective date) of the Bank. 
+Further, pursuant to the Scheme, the Bank granted 2,960,270 options and 618,910 units to the employees of ICICI Securities 
+Limited. 
+9. 
+The new Labour Codes were notiﬁed by the government during November 2025, pursuant to which the Bank charged an amount 
+of ₹ 145.00 crore to the proﬁt and loss account during the quarter ended December 31, 2025 based on certain estimates and 
+assumptions. The supporting Rules and certain key clariﬁcations are awaited, and the interpretations and industry practices are 
+still developing. The above impact estimates will be re-assessed and ﬁnalised based on the ﬁnal Rules, industry practices and any 
+revisions to the Bank’s staff emoluments from time to time. 
+10. During FY2026, following its annual supervisory review, Reserve Bank of India has directed the Bank to make a standard asset 
+provision of ₹ 1,283.00 crore in respect of a portfolio of agricultural priority sector credit facilities wherein the terms of the facilities 
+were found to be not fully compliant with the regulatory requirements for classiﬁcation as agricultural priority sector lending. 
+There is no change in asset classiﬁcation or in the terms and conditions applicable to the borrowers or in the repayment behaviour 
+of borrowers as per these terms. This additional standard asset provision will continue until the loans are repaid or renewed in 
+conformity with the Priority sector classiﬁcation guidelines. 
+11. During Q4-2026, the Bank has allotted 9,439,860 equity shares of ₹ 2 each pursuant to exercise of employee stock options/units.  
+12. The Board of Directors has recommended a dividend of ₹ 12 per equity share for FY2026. The declaration and payment of dividend 
+is subject to requisite approvals. 
+13. Previous period/year ﬁgures have been re-grouped wherever necessary to conform to current period classiﬁcation. 
+14. The above standalone ﬁnancial results have been reviewed/audited by the joint statutory auditors, B S R & Co. LLP, Chartered 
+Accountants and C N K & Associates LLP, Chartered Accountants who have issued an unmodiﬁed conclusion/opinion thereon. 
+15. The amounts for Q4-2026 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial statements for FY2026 and the 
+published ﬁgures for 9M-2026 and the amount for Q4-2025 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial 
+statements for FY2025 and the published ﬁgures for 9M-2025. 
+16. ₹ 1.00 crore = ₹ 10.0 million. 
+ 
+
+--- End of Page ---
+
+9 
+ 
+ 
+STANDALONE SEGMENTAL RESULTS 
+(₹ in crore) 
+ 
+Sr 
+No. 
+Particulars 
+Three months ended 
+Year ended 
+March 31, 
+2026 
+December 
+31, 2025 
+March 31, 
+2025 
+March 31, 
+2026 
+March 31, 
+2025 
+(Q4-2026)7 
+(Q3-2026) 
+(Q4-2025)7 
+FY2026 
+FY2025 
+(Audited) 
+(Unaudited) 
+(Audited) 
+(Audited) 
+(Audited) 
+1. 
+Segment Revenue 
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+40,608.58 
+40,568.71 
+40,617.66 
+162,394.20 
+156,184.68 
+b 
+Wholesale banking 
+23,114.71 
+22,169.86 
+21,535.91 
+87,847.28 
+82,436.21 
+c 
+Treasury 
+34,341.12 
+33,229.50 
+34,778.14 
+138,409.17 
+135,052.58 
+d 
+Other Banking 
+1,341.01 
+984.12 
+1,046.40 
+4,702.94 
+4,386.29 
+ 
+Total segment revenue 
+99,405.42 
+96,952.19 
+97,978.11 
+393,353.59 
+378,059.76 
+ 
+Less: Inter segment revenue 
+48,821.04 
+47,618.19 
+48,287.24 
+192,649.91 
+186,289.28 
+ 
+Income from operations 
+50,584.38 
+49,334.00 
+49,690.87 
+200,703.68 
+191,770.48 
+2. 
+Segmental Results (i.e. Proﬁt before 
+tax) 
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+6,927.01 
+5,263.49 
+6,493.42 
+23,244.23 
+21,621.04 
+b 
+Wholesale Banking 
+7,037.05 
+6,305.48 
+5,551.79 
+24,488.98 
+21,564.63 
+c 
+Treasury 
+3,742.24 
+3,085.30 
+4,465.62 
+17,229.86 
+18,760.73 
+d 
+Other banking 
+396.65 
+146.11 
+262.72 
+1,255.38 
+669.80 
+ 
+Total segment results  
+18,102.95 
+14,800.38 
+16,773.55 
+66,218.45 
+62,616.20 
+3. 
+Segment assets  
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+878,848.27 
+824,215.60 
+792,930.19 
+878,848.27 
+792,930.19 
+b 
+Wholesale banking 
+678,574.42 
+647,658.57 
+548,269.82 
+678,574.42 
+548,269.82 
+c 
+Treasury 
+761,180.39 
+671,399.11 
+721,695.52 
+761,180.39 
+721,695.52 
+d 
+Other Banking 
+49,768.52 
+43,084.36 
+50,597.21 
+49,768.52 
+50,597.21 
+e 
+Unallocated 
+4,159.40 
+4,232.39 
+4,747.23 
+4,159.40 
+4,747.23 
+ 
+Total segment assets 
+2,372,531.00 
+2,190,590.03 
+2,118,239.97 
+2,372,531.00 
+2,118,239.97 
+4. 
+Segment liabilities  
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+1,220,339.34 
+1,163,396.57 
+1,111,966.22 
+1,220,339.34 
+1,111,966.22 
+b 
+Wholesale banking 
+644,705.85 
+553,096.38 
+555,997.39 
+644,705.85 
+555,997.39 
+c 
+Treasury 
+147,173.69 
+129,265.47 
+137,562.04 
+147,173.69 
+137,562.04 
+d 
+Other Banking 
+7,109.19 
+6,139.12 
+7,538.02 
+7,109.19 
+7,538.02 
+e 
+Unallocated 
+15,831.51 
+15,559.43 
+13,100.00 
+15,831.51 
+13,100.00 
+ 
+Total segment liabilities 
+2,035,159.58 
+1,867,456.97 
+1,826,163.67 
+2,035,159.58 
+1,826,163.67 
+5. 
+Capital Employed 
+337,371.42 
+323,133.06 
+292,076.30 
+337,371.42 
+292,076.30 
+6. 
+Total (4) + (5) 
+2,372,531.00 
+2,190,590.03 
+2,118,239.97 
+2,372,531.00 
+2,118,239.97 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- End of Page ---
+
+10 
+ 
+Notes on standalone segmental results: 
+1. 
+'The disclosure on segmental reporting has been prepared in accordance with Securities and Exchange Board of India (SEBI) 
+circular no. CIR/CFD/FAC/62/2016 dated July 5, 2016 on Revised Formats for Financial Results and Implementation of Ind AS by 
+Listed Entities. 
+2. 
+"Retail Banking" includes exposures of the Bank which satisfy the four criteria of orientation, product, granularity and low value of 
+individual exposures for retail exposures as per RBI guidelines. This segment also includes income from credit cards, debit cards, 
+third party product distribution and the associated costs. 
+ 
+'RBI’s Master Direction on Financial Statements – Presentation and Disclosures, requires to sub-divide ‘Retail banking’ into (a) 
+Digital Banking and (b) Other Retail Banking segment. Accordingly, the segmental results for retail banking segment is subdivided 
+as below:                   
+(₹ in crore)       
+ 
+Sr 
+No. 
+Particulars 
+Segment 
+Revenue 
+Segment 
+Results 
+Segment 
+assets 
+Segment 
+liabilities 
+ 
+Q4-2026 
+ 
+ 
+ 
+ 
+ 
+Retail Banking 
+40,608.58 
+6,927.01 
+878,848.27 
+1,220,339.34 
+(i) 
+Digital Banking 
+11,364.68 
+1,923.10 
+146,376.71 
+288,754.05 
+(ii) 
+Other Retail Banking 
+29,243.90 
+5,003.91 
+732,471.56 
+931,585.29 
+ 
+Q3-2026 
+ 
+ 
+ 
+ 
+ 
+Retail Banking 
+40,568.71 
+5,263.49 
+824,215.60 
+1,163,396.57 
+(i) 
+Digital Banking 
+10,981.62 
+1,950.11 
+142,447.23 
+234,937.99 
+(ii) 
+Other Retail Banking 
+29,587.09 
+3,313.38 
+681,768.37 
+928,458.58 
+ 
+Q4-2025 
+ 
+ 
+ 
+ 
+ 
+Retail Banking 
+40,617.66 
+6,493.42 
+792,930.19 
+1,111,966.22 
+(i) 
+Digital Banking 
+10,724.74 
+1,876.32 
+145,898.56 
+208,095.33 
+(ii) 
+Other Retail Banking 
+29,892.92 
+4,617.10 
+647,031.63 
+903,870.89 
+ 
+ 
+ 
+3. 
+"Wholesale Banking" includes all advances to trusts, partnership ﬁrms, companies and statutory bodies, by the Bank which are 
+not included under Retail Banking. 
+4. 
+"Treasury" primarily includes the entire investment and derivative portfolio of the Bank. 
+5. 
+"Other Banking" includes leasing operations and other items not attributable to any particular business segment of the Bank. 
+6. 
+"Unallocated" includes items such as tax paid in advance net of provision, deferred tax and provisions to the extent reckoned at 
+the entity level. 
+7. 
+The amounts for Q4-2026 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial statements for FY2026 and the 
+published ﬁgures for 9M-2026 and the amount for Q4-2025 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial 
+statements for FY2025 and the published ﬁgures for 9M-2025. 
+ 
+ 
+ 
+ 
+ 
+ For and on behalf of the Board of Directors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rakesh Jha 
+Mumbai 
+Executive Director 
+April 18, 2026 
+DIN-00042075 
+ 
+ 
+ 
+
+--- End of Page ---
+
+11 
+ 
+ 
+ICICI Bank Limited 
+CIN-L65190GJ1994PLC021012 
+Registered Ofﬁce: ICICI Bank Tower, Near Chakli Circle, Old Padra Road, Vadodara - 390 007, Gujarat, Phone: 0265-6722239  
+Corporate Ofﬁce: ICICI Bank Towers, Bandra-Kurla Complex, Mumbai - 400 051, Maharashtra, Phone: 022-40088900  
+Website: www.icici.bank.in, Email: companysecretary@icici.bank.in 
+ 
+CONSOLIDATED FINANCIAL RESULTS 
+(₹ in crore) 
+ 
+ 
+ 
+ 
+ 
+Sr. 
+No. 
+Particulars 
+Three months ended 
+Year ended 
+March 31, 
+2026 
+December 31, 
+2025 
+March 31, 
+2025 
+March 31, 
+2026 
+March 31, 
+2025 
+(Q4-2026)12 
+(Q3-2026) 
+(Q4-2025)12 
+(FY2026) 
+(FY2025) 
+(Audited) 
+(Unaudited) 
+(Audited) 
+(Audited) 
+(Audited) 
+1 
+Interest earned (a)+(b)+(c)+(d) 
+49,593.75 
+48,363.84 
+48,386.92 
+195,218.46 
+186,331.47 
+ 
+a) 
+Interest/discount on advances/bills 
+35,211.12 
+34,346.69 
+34,547.45 
+137,804.26 
+133,243.71 
+ 
+b) 
+Income on investments 
+12,137.66 
+12,289.68 
+11,928.09 
+49,688.72 
+47,302.54 
+ 
+c) 
+Interest on balances with Reserve Bank 
+of India and other inter-bank funds 
+1,120.34 
+1,005.94 
+1,052.19 
+4,180.80 
+3,428.66 
+ 
+d) 
+Others 
+1,124.63 
+721.53 
+859.19 
+3,544.68 
+2,356.56 
+2 
+Other income (e)+(f) 
+35,019.91 
+28,418.24 
+31,360.85 
+116,899.90 
+108,255.47 
+ 
+e) 
+Premium and other operating income 
+from insurance business 
+25,901.34 
+18,553.97 
+22,372.74 
+77,624.19 
+70,900.83 
+ 
+f) 
+Others 
+9,118.57 
+9,864.27 
+8,988.11 
+39,275.71 
+37,354.64 
+3 
+TOTAL INCOME (1)+(2) 
+84,613.66 
+76,782.08 
+79,747.77 
+312,118.36 
+294,586.94 
+4 
+Interest expended 
+22,046.81 
+21,874.32 
+23,047.32 
+89,028.58 
+89,027.65 
+5 
+Operating expenses (g)+(h)+(i) 
+41,561.97 
+34,507.18 
+36,647.64 
+140,393.62 
+127,799.98 
+ 
+g) 
+Employee cost 
+6,256.82 
+6,243.36 
+5,797.01 
+25,258.62 
+23,629.94 
+ 
+h) 
+Claims and beneﬁts paid and other 
+expenses pertaining to insurance 
+business 
+26,824.51 
+19,615.16 
+22,933.43 
+81,836.36 
+73,806.18 
+ 
+i) 
+Other operating expenses 
+8,480.64 
+8,648.66 
+7,917.20 
+33,298.64 
+30,363.86 
+6 
+TOTAL EXPENDITURE EXCLUDING 
+PROVISIONS AND CONTINGENCIES (4)+(5) 
+63,608.78 
+56,381.50 
+59,694.96 
+229,422.20 
+216,827.63 
+7 
+OPERATING PROFIT BEFORE PROVISIONS 
+AND CONTINGENCIES (3)–(6) 
+21,004.88 
+20,400.58 
+20,052.81 
+82,696.16 
+77,759.31 
+8 
+Provisions (other than tax) and contingencies 
+260.67 
+2,646.52 
+940.13 
+5,638.83 
+4,905.76 
+9 
+PROFIT FROM ORDINARY ACTIVITIES 
+BEFORE EXCEPTIONAL ITEMS AND TAX (7)-
+(8) 
+20,744.21 
+17,754.06 
+19,112.68 
+77,057.33 
+72,853.55 
+10 
+Exceptional items 
+.. 
+.. 
+.. 
+.. 
+.. 
+11 
+Add: Share of proﬁt in associates 
+68.77 
+69.80 
+30.32 
+262.85 
+150.66 
+12 
+PROFIT FROM ORDINARY ACTIVITIES 
+BEFORE TAX AND MINORITY INTEREST (9)-
+(10)+(11) 
+20,812.98 
+17,823.86 
+19,143.00 
+77,320.18 
+73,004.21 
+13 
+Tax expense (j)+(k) 
+5,132.34 
+4,342.73 
+4,789.31 
+19,383.93 
+18,434.83 
+ 
+j) 
+Current tax 
+4,832.29 
+4,395.78 
+4,390.79 
+18,709.57 
+17,497.17 
+  
+k) 
+Deferred tax 
+300.05 
+(53.05) 
+398.52 
+674.36 
+937.66 
+14 
+Less: Share of proﬁt/(loss) of minority 
+shareholders 
+925.58 
+943.15 
+851.47 
+3,728.55 
+3,540.18 
+15 
+NET PROFIT FROM ORDINARY ACTIVITIES 
+AFTER TAX (12)–(13)-(14) 
+14,755.06 
+12,537.98 
+13,502.22 
+54,207.70 
+51,029.20 
+16 
+Extraordinary items (net of tax expense) 
+.. 
+.. 
+.. 
+.. 
+.. 
+17 
+NET PROFIT FOR THE PERIOD (15)–(16) 
+14,755.06 
+12,537.98 
+13,502.22 
+54,207.70 
+51,029.20 
+18 
+Paid-up equity share capital (face value ₹ 2/- 
+each) 
+1,432.23 
+1,430.35 
+1,424.60 
+1,432.23 
+1,424.60 
+19 
+Reserves excluding revaluation reserves 
+  
+355,001.08 
+306,631.95 
+20 
+Earnings per share (EPS) 
+  
+  
+  
+ 
+  
+ 
+ Basic EPS before and after extraordinary 
+items, net of tax expense (in ₹)  
+20.62 
+17.54 
+19.11 
+75.89 
+72.41 
+ 
+ Diluted EPS before and after extraordinary 
+items, net of tax expense (in ₹) 
+20.36 
+17.29 
+18.84 
+74.77 
+71.14 
+
+--- End of Page ---
+
+12 
+ 
+SUMMARISED CONSOLIDATED BALANCE SHEET 
+(₹ in crore) 
+ 
+ 
+ 
+ 
+ 
+Particulars 
+At 
+March 31, 
+2026 
+December 31, 
+2025 
+March 31, 
+2025 
+(Audited) 
+(Unaudited) 
+(Audited) 
+Capital and Liabilities 
+Capital 
+1,432.23 
+1,430.35 
+1,424.60 
+Employee stock options/units outstanding 
+2,682.07 
+2,498.82 
+2,069.84 
+Reserves and surplus 
+358,946.11 
+344,816.06 
+310,411.47 
+Minority interest 
+16,510.96 
+16,931.21 
+14,836.74 
+Deposits 
+1,830,020.12 
+1,693,071.92 
+1,641,637.40 
+Borrowings (includes subordinated debt) 
+220,264.28 
+215,435.55 
+218,883.44 
+Policyholers' funds 
+296,499.07 
+312,968.68 
+294,305.56 
+Other liabilities and provisions 
+188,143.13 
+166,318.42 
+158,672.36 
+Total Capital and Liabilities 
+2,914,497.97 
+2,753,471.01 
+2,642,241.41 
+  
+  
+  
+   
+Assets 
+  
+  
+  
+Cash and balances with Reserve Bank of India 
+121,237.19 
+63,747.80 
+120,240.91 
+Balances with banks and money at call and short notice 
+143,743.53 
+115,629.54 
+93,782.55 
+Investments 
+870,719.88 
+901,184.26 
+886,376.81 
+Advances 
+1,644,657.97 
+1,552,367.46 
+1,420,663.71 
+Fixed assets 
+17,420.34 
+17,015.31 
+15,812.42 
+Other Assets 
+106,169.01 
+93,039.78 
+96,905.58 
+Goodwill on consolidation 
+10,550.05 
+10,486.86 
+8,459.43 
+Total Assets 
+2,914,497.97 
+2,753,471.01 
+2,642,241.41 
+
+--- End of Page ---
+
+13 
+ 
+CONSOLIDATED CASH FLOW STATEMENTS 
+(₹ in crore) 
+ 
+Particulars 
+ 
+Year Ended 
+March 31, 2026 
+March 31, 2025 
+(FY2026) 
+(FY2025) 
+(Audited) 
+(Audited) 
+Cash ﬂow from/(used in) operating activities 
+ 
+ 
+ 
+Proﬁt/(loss) before taxes 
+ 
+73,591.64 
+69,464.03 
+ 
+ 
+ 
+ 
+Adjustments for: 
+ 
+ 
+ 
+Depreciation and amortisation 
+ 
+3,122.65 
+2,690.38 
+Net (appreciation)/depreciation on investments 
+ 
+290.34 
+(102.32) 
+Speciﬁc provision for non-performing loans, restructured and standard loans 
+ 
+6,276.82 
+4,127.25 
+General provision for standard assets 
+ 
+835.54 
+701.14 
+Provision for contingencies & others 
+ 
+(867.56) 
+(722.74) 
+(Proﬁt)/loss on sale of ﬁxed assets and other assets 
+ 
+(288.62) 
+(43.91) 
+Employees stock options/units expense 
+ 
+968.70 
+790.15 
+ 
+(i) 
+83,929.51 
+76,903.98 
+Adjustments for: 
+ 
+ 
+ 
+(Increase)/decrease in investments 
+ 
+6,075.31 
+7,501.41 
+(Increase)/decrease in advances 
+ 
+(230,271.07) 
+(164,019.75) 
+Increase/(decrease) in deposits 
+ 
+188,380.06 
+198,057.45 
+(Increase)/decrease in other assets 
+ 
+(13,493.83) 
+(517.64) 
+Increase/(decrease) in other liabilities and provisions1 
+ 
+49,253.39 
+22,996.27 
+ 
+(ii) 
+(56.14) 
+64,017.74 
+ 
+ 
+ 
+ 
+Refund/(payment) of direct taxes 
+(iii) 
+(16,547.95) 
+(18,116.46) 
+Net cash ﬂow from/(used in) operating activities (i)+(ii)+(iii) 
+(A) 
+67,325.42 
+122,805.26 
+Cash ﬂow from/(used in) investing activities 
+ 
+ 
+ 
+Purchase of ﬁxed assets 
+ 
+(3,730.0) 
+(4,770.00) 
+Proceeds from sale of ﬁxed assets 
+ 
+182.94 
+64.61 
+(Purchase)/sale of held to maturity securities 
+ 
+(9,466.53) 
+(72,582.97) 
+Net cash ﬂow from/(used in) investing activities  
+(B) 
+(13,013.59) 
+(77,288.36) 
+Cash ﬂow from/(used in) ﬁnancing activities 
+ 
+ 
+ 
+Proceeds from issue of share capital (including ESOPs/ESUSs) 
+ 
+1,360.65 
+1,437.52 
+Proceeds from long-term borrowings 
+ 
+48,178.77 
+40,446.49 
+Repayment of long-term borrowings 
+ 
+(50,153.21) 
+(39,933.10) 
+Net proceeds/(repayment) of short-term borrowings 
+ 
+3,806.39 
+10,679.59 
+Dividend paid 
+ 
+(7,853.15) 
+(7,041.27) 
+Net cash ﬂow from/(used in) ﬁnancing activities   
+ 
+(C) 
+(4,660.55) 
+5,589.23 
+Effect of exchange ﬂuctuation on translation reserve 
+(D) 
+1,305.98 
+148.43 
+ 
+ 
+ 
+ 
+Net increase/(decrease) in cash and cash equivalents (A)+(B)+(C)+(D) 
+ 
+50,957.26 
+51,254.56 
+ 
+ 
+ 
+ 
+Cash and cash equivalents at beginning of the year 
+ 
+214,023.46 
+162,768.90 
+Cash and cash equivalents at end of the year 
+ 
+264,980.72 
+214,023.46 
+ 
+1. 
+Including adjustments for increase/(decrease) in Policyholders' funds. 
+2. 
+Cash and cash equivalents include cash in hand, foreign currency notes, rupee digital currency, balances with RBI, balances with other banks and 
+money at call and short notice. 
+ 
+ 
+ 
+
+--- End of Page ---
+
+14 
+ 
+Notes on consolidated ﬁnancial results: 
+1. 
+The above consolidated ﬁnancial results have been approved by the Board of Directors at its meeting held on April 18, 2026. 
+ 
+2. 
+The consolidated ﬁnancial results have been prepared in accordance with the recognition and measurement principles laid down 
+in Accounting Standards prescribed under Section 133 of the Companies Act, 2013, the relevant provisions of the Banking 
+Regulation Act, 1949, the circulars, guidelines and directions issued by the Reserve Bank of India (‘the RBI’) from time to time, the 
+Insurance Regulatory and Development Authority of India (‘the IRDAI’) applicable for insurance entities and other accounting 
+principles generally accepted in India and, in case of overseas jurisdictions, generally accepted accounting principles as applicable, 
+and are in compliance with the presentation and disclosure requirements of the Regulation 33 and Regulation 52(4) read with 
+Regulation 63 of the Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘SEBI 
+Regulations’) as amended including relevant circulars issued by SEBI from time to time. 
+ 
+3. 
+During FY2026, the Bank has allotted 9,439,860 equity shares of ₹ 2 each pursuant to exercise of employee stock options/units. 
+ 
+4. 
+The Board of Directors has recommended a dividend of ₹ 12 per equity share for FY2026. The declaration and payment of dividend 
+is subject to requisite approvals. 
+ 
+5. 
+At March 31, 2026, the Bank has 17 subsidiaries (including two step-down subsidiaries) and two associates. During Q1-2026, on 
+account of sale of entire stake in FISERV Merchant Solutions Private Limited and NIIT Institute of Finance Banking and Insurance 
+Training Limited, these entities ceased to be associates of the Bank. During Q2-2026, due to redemption of all units held in India 
+Advantage Fund-III and India Advantage Fund-IV, these entities ceased to be associates of the Bank. During Q4-2026, due to 
+redemption of all units held in ICICI Strategic Investment Fund, entity ceased to be consolidated as per Accounting Standard 21. 
+ 
+6. 
+During Q4-2025, pursuant to the Scheme of Arrangement amongst ICICI Securities Limited, ICICI Bank Limited and their respective 
+shareholders (‘the Scheme’), ICICI Securities Limited has been delisted from stock exchanges on March 24, 2025 and became a 
+wholly-owned subsidiary of the Bank. The Bank issued 56,008,117 equity shares of the Bank of face value ₹ 2 each in accordance 
+with the Scheme to the public shareholders of ICICI Securities Limited. In accordance with the Scheme, the Bank recognised a 
+securities premium of ₹ 6,887.60 crore based on the market price of equity shares of the Bank on effective date of the Scheme. 
+Further, pursuant to the Scheme, the Bank granted 2,960,270 options and 618,910 units to the employees of ICICI Securities 
+Limited. Accordingly, the Bank recognised a goodwill of ₹ 5,549.25 crore in consolidated ﬁnancial statements at March 31, 2025 
+on account of acquisition of additional stake in ICICI Securities Limited. Accordingly, the consolidated ﬁnancial results for Q4-2026, 
+Q3-2026 and FY2026 are not comparable with the previous periods. 
+ 
+7. 
+During Q3-2026, the Bank has acquired 2.0% additional equity stake in the ICICI Prudential Asset Management Company Limited 
+(ICICI AMC) from Prudential Corporation Holdings Limited. Accordingly, the Bank recognised a goodwill of ₹ 2,063.28 crore in 
+consolidated ﬁnancial statements. 
+ 
+8. 
+The new Labour Codes were notiﬁed by the government during November 2025, pursuant to which the group charged an amount 
+of ₹ 214.86 crore to the proﬁt and loss account during the quarter ended December 31, 2025 based on certain estimates and 
+assumptions. The supporting Rules and certain key clariﬁcations are awaited, and the interpretations and industry practices are 
+still developing. The above impact estimates will be re-assessed and ﬁnalised based on the ﬁnal Rules, industry practices and any 
+revisions to the Group’s staff emoluments from time to time. 
+ 
+9. 
+In accordance with RBI guidelines, consolidated Pillar 3 disclosure (unaudited), leverage ratio, liquidity coverage ratio, net stable 
+funding ratio is available at https://www.icici.bank.in/regulatory-disclosure. 
+ 
+10. Previous period/year ﬁgures have been re-grouped wherever necessary to conform to current period classiﬁcation. 
+ 
+11. The above consolidated ﬁnancial results have been reviewed/audited by the joint statutory auditors, B S R & Co. LLP, Chartered 
+Accountants and C N K & Associates LLP, Chartered Accountants who have issued an unmodiﬁed conclusion/opinion thereon. 
+ 
+12. The amounts for Q4-2026 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial statements for FY2026 and the 
+published ﬁgures for 9M-2026 and the amount for Q4-2025 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial 
+statements for FY2025 and the published ﬁgures for 9M-2025. 
+ 
+13. ₹ 1.00 crore = ₹ 10.0 million. 
+ 
+ 
+
+--- End of Page ---
+
+15 
+ 
+CONSOLIDATED SEGMENTAL RESULTS 
+(₹ in crore) 
+  
+ 
+ 
+ 
+Sr. 
+no. 
+Particulars 
+Three months ended 
+Year  ended 
+March 31, 
+2026 
+December 
+31, 2025 
+March 31, 
+2025 
+March 31, 
+2026 
+March 31, 
+2025 
+(Q4-2026)10 
+(Q3-2026) 
+(Q4-2025)10 
+(FY2026) 
+(FY2025) 
+(Audited) 
+(Unaudited) 
+(Audited) 
+(Audited) 
+(Audited) 
+1 
+Segment Revenue 
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+ 
+40,608.58 
+ 
+40,568.71 
+ 40,617.66   
+162,394.20 
+ 
+156,184.68 
+b 
+Wholesale Banking 
+ 
+23,114.71 
+ 
+22,169.86 
+ 21,535.91   
+87,847.28 
+ 
+82,436.21 
+c 
+Treasury 
+ 
+34,339.39 
+ 
+33,229.51 
+ 34,775.09   
+138,430.36 
+ 
+135,042.31 
+d 
+Other Banking 
+ 
+2,068.90 
+ 
+1,686.27 
+ 1,763.55   
+7,516.73 
+ 
+7,508.32 
+e 
+Life Insurance 
+ 
+22,511.95 
+ 
+15,459.02 
+ 19,449.14   
+65,472.05 
+ 
+60,224.24 
+f 
+General Insurance 
+ 
+7,343.90 
+ 
+7,365.75 
+ 6,466.22   
+28,890.61 
+ 
+25,651.09 
+g 
+Others 
+ 
+4,743.39 
+ 
+5,120.08 
+ 4,652.09   
+19,970.13 
+ 
+18,832.65 
+ 
+Total segment revenue 
+ 
+134,730.82 
+ 
+125,599.20 
+ 129,259.66   
+510,521.36 
+ 
+485,879.50 
+ 
+Less: Inter segment revenue 
+ 
+50,117.16 
+ 
+48,817.12 
+ 49,511.89   
+198,403.00 
+ 
+191,292.56 
+ 
+Income from operations 
+ 
+84,613.66 
+ 
+76,782.08 
+ 79,747.77   
+312,118.36 
+ 
+294,586.94 
+2 
+Segmental results (i.e. Proﬁt before tax 
+and minority interest) 
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+ 
+6,927.01 
+ 
+5,263.49 
+ 6,493.42   
+23,244.23 
+ 
+21,621.04 
+b 
+Wholesale Banking 
+ 
+7,037.05 
+ 
+6,305.48 
+ 5,551.79   
+24,488.98 
+ 
+21,564.63 
+c 
+Treasury 
+ 
+3,740.48 
+ 
+3,085.29 
+ 4,462.54   
+17,250.94 
+ 
+18,750.32 
+d 
+Other Banking 
+ 
+501.99 
+ 
+236.04 
+ 408.63   
+1,702.73 
+ 
+1,451.19 
+e 
+Life Insurance 
+ 
+668.64 
+ 
+447.19 
+ 414.12   
+1,807.68 
+ 
+1,336.43 
+f 
+General Insurance 
+ 
+718.20 
+ 
+869.79 
+ 668.18   
+3,658.97 
+ 
+3,321.29 
+g 
+Others 
+ 
+1,850.90 
+ 
+2,185.16 
+ 1,784.33   
+8,378.42 
+ 
+7,423.08 
+ 
+Total segment results 
+ 
+21,444.27 
+ 
+18,392.44 
+ 19,783.01   
+80,531.95 
+ 
+75,467.98 
+ 
+Less: Inter segment adjustment 
+ 
+700.06 
+ 
+638.38 
+ 670.33   
+3,474.62 
+ 
+2,614.43 
+ 
+Add: Share in proﬁt of associates 
+ 
+68.77 
+ 
+69.80 
+ 30.32   
+262.85 
+ 
+150.66 
+ 
+Proﬁt before tax and minority interest 
+20,812.98 
+ 
+17,823.86 
+ 19,143.00   
+77,320.18 
+ 
+73,004.21 
+3 
+Segment assets  
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+ 
+878,848.27 
+ 
+824,215.60 
+ 
+792,930.19 
+ 
+878,848.27 
+ 
+792,930.19 
+b 
+Wholesale Banking 
+ 
+678,574.42 
+ 
+647,658.57 
+ 
+548,269.82 
+ 
+678,574.42 
+ 
+548,269.82 
+c 
+Treasury 
+ 
+762,478.76 
+ 
+672,631.54 
+ 
+722,733.26 
+ 
+762,478.76 
+ 
+722,733.26 
+d 
+Other Banking 
+ 
+110,716.07 
+ 
+96,415.44 
+ 
+102,559.47 
+ 
+110,716.07 
+ 
+102,559.47 
+e 
+Life Insurance 
+ 
+318,965.32 
+ 
+333,833.71 
+ 
+314,088.54 
+ 
+318,965.32 
+ 
+314,088.54 
+f 
+General Insurance 
+ 
+75,515.13 
+ 
+75,567.78 
+ 
+68,561.74 
+ 
+75,515.13 
+ 
+68,561.74 
+g 
+Others 
+ 
+103,525.82 
+ 
+114,489.71 
+ 
+102,968.20 
+ 
+103,525.82 
+ 
+102,968.20 
+h 
+Unallocated 
+ 
+4,262.13 
+ 
+4,482.81 
+ 
+5,533.91 
+ 
+4,262.13 
+ 
+5,533.91 
+ 
+Total 
+ 2,932,885.92 
+ 2,769,295.16 
+ 2,657,645.13 
+ 2,932,885.92 
+ 2,657,645.13 
+ 
+Less: Inter segment adjustment 
+ 
+18,387.95 
+ 
+15,824.15 
+ 
+15,403.72 
+ 
+18,387.95 
+ 
+15,403.72 
+ 
+Total segment assets 
+ 2,914,497.97 
+ 2,753,471.01 
+ 2,642,241.41 
+ 2,914,497.97 
+ 2,642,241.41 
+4 
+Segment liabilities  
+ 
+ 
+ 
+ 
+ 
+a 
+Retail Banking 
+ 1,220,339.34 
+ 1,163,396.57 
+ 1,111,966.22 
+ 1,220,339.34 
+ 
+1,111,966.22 
+b 
+Wholesale Banking 
+ 
+644,705.85 
+ 
+553,096.38 
+ 
+555,997.39 
+ 
+644,705.85 
+ 
+555,997.39 
+c 
+Treasury 
+ 
+177,043.78 
+ 
+159,328.38 
+ 
+164,653.06 
+ 
+177,043.78 
+ 
+164,653.06 
+d 
+Other Banking 
+ 
+61,532.31 
+ 
+53,180.67 
+ 
+53,777.64 
+ 
+61,532.31 
+ 
+53,777.64 
+e 
+Life Insurance 
+ 
+306,122.59 
+ 
+320,112.28 
+ 
+302,298.83 
+ 
+306,122.59 
+ 
+302,298.83 
+f 
+General Insurance 
+ 
+60,039.48 
+ 
+58,487.67 
+ 
+54,036.44 
+ 
+60,039.48 
+ 
+54,036.44 
+g 
+Others 
+85,695.78 
+ 
+96,733.73 
+ 
+87,909.64 
+85,695.78 
+ 
+87,909.64 
+h 
+Unallocated 
+ 
+14,346.38 
+ 
+16,214.25 
+ 
+13,100.00 
+ 
+14,346.38 
+ 
+13,100.00 
+ 
+Total 
+2,569,825.51 
+ 2,420,549.93 
+ 2,343,739.22 
+2,569,825.51 
+ 2,343,739.22 
+ 
+Less: Inter segment adjustment 
+ 
+18,387.95 
+ 
+15,824.15 
+ 
+15,403.72 
+ 
+18,387.95 
+ 
+15,403.72 
+ 
+Total segment liabilities 
+ 2,551,437.56 
+ 2,404,725.78 
+ 2,328,335.50 
+ 2,551,437.56 
+ 2,328,335.50 
+5 
+Capital employed 
+ 
+363,060.41 
+ 
+348,745.23 
+ 
+313,905.91 
+ 
+363,060.41 
+ 
+313,905.91 
+6 
+Total (4) + (5) 
+ 2,914,497.97 
+ 2,753,471.01 
+ 2,642,241.41 
+ 2,914,497.97 
+ 2,642,241.41 
+
+--- End of Page ---
+
+16 
+ 
+Notes on segmental results: 
+ 
+1. 
+The disclosure on segmental reporting has been prepared in accordance with Securities and Exchange Board of India (SEBI) circular 
+no. CIR/CFD/FAC/62/2016 dated July 5, 2016 on Revised Formats for Financial Results and Implementation of Ind AS by Listed 
+Entities. 
+ 
+2. 
+'Retail Banking' includes exposures of the Bank which satisfy the four criteria of orientation, product, granularity and low value of 
+individual exposures for retail exposures laid down in Basel Committee on Banking Supervision document 'International 
+Convergence of Capital Measurement and Capital Standards: A Revised Framework'. This segment also includes income from credit 
+cards, debit cards, third party product distribution and the associated costs. 
+ 
+3. 
+'Wholesale Banking' includes all advances to trusts, partnership ﬁrms, companies and statutory bodies, by the Bank which are not 
+included under Retail Banking. 
+ 
+4. 
+'Treasury' primarily includes the entire investment and derivative portfolio of the Bank. 
+ 
+5. 
+'Other Banking' includes leasing operations and other items not attributable to any particular business segment of the Bank. 
+Further, it includes the Bank’s banking subsidiaries i.e. ICICI Bank UK PLC and ICICI Bank Canada. 
+ 
+6. 
+'Life Insurance' represents ICICI Prudential Life Insurance Company Limited. 
+ 
+7. 
+'General Insurance' represents ICICI Lombard General Insurance Company Limited. 
+ 
+8. 
+'Others' comprises the consolidated entities of the Bank, not covered in any of the segments above. 
+ 
+9. 
+'Unallocated' includes items such as tax paid in advance net of provision, deferred tax and provisions to the extent reckoned at the 
+entity level. 
+ 
+10. The amounts for Q4-2026 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial statements for FY2026 and the 
+published ﬁgures for 9M-2026 and the amount for Q4-2025 are balancing ﬁgures between the ﬁgures as per the audited ﬁnancial 
+statements for FY2025 and the published ﬁgures for 9M-2025. 
+ 
+  
+ 
+ 
+For and on behalf of the Board of Directors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rakesh Jha 
+Mumbai 
+Executive Director 
+April 18, 2026 
+DIN-00042075 
+ 
+
+--- End of Page ---
+
