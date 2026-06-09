@@ -1,4 +1,4 @@
-
+*.csv
 
 # Ignore Python cache
 __pycache__/
