@@ -1,6 +1,7 @@
 *.csv
 rough.py
 my_vectordb
+extracted_data1.txt
 
 # Ignore Python cache
 __pycache__/

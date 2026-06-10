@@ -2,3 +2,4 @@ pymupdf
 pymupdf4llm
 pandas
 chromadb
+pymongo

@@ -4,6 +4,9 @@ import pandas as pd
 import pymupdf4llm
 import pymupdf
 import chromadb
+from pymongo import MongoClient
+
+MONGO_URI = "mongodb+srv://Dhanaprathan:Dhana%402004@cluster0.z2ttd4o.mongodb.net/?appName=Cluster0"
 
 
 
@@ -123,7 +126,7 @@ rag_data = extract_pdf_for_rag(pdf_file)
 
 # -----------------Extraction complete-----------------------------------------------------
 
-
+# ------------------------------------Vector Database in ChromaDB-----------------------------
 
 def embed_and_store_data(rag_data):
     print("Initializing Vector Database...")
@@ -169,7 +172,7 @@ def embed_and_store_data(rag_data):
 my_collection = embed_and_store_data(rag_data)
 
 
-# ---------------------------------Vector embeddings sample------------------------------
+# ---------------------------------Vector embeddings and search sample(chromaDB)------------------------------
 
 # --- 1. Peek at the raw data and the Vector ---
 print("\n========== 1. PEEKING INSIDE THE DATABASE ==========")
@@ -204,3 +207,77 @@ best_text = results['documents'][0][0]
 print(f"\n✅ Most relevant answer found on Page {best_page}!")
 print("--- Extracted Context ---")
 print(best_text[:500]) # Printing the first 500 characters of the best match
+
+# ------------------------------------------------chroma DB to MONGODB---------------------------------
+
+def push_chroma_to_mongodb(chroma_collection):
+    print("1. Extracting data & vectors from Chroma...")
+    chroma_data = chroma_collection.get(
+        include=['embeddings', 'documents', 'metadatas']
+    )
+    
+    # Setup MongoDB Connection (using your local default port)
+    
+    print("2. Connecting to MongoDB Backend...")
+    mongo_client = MongoClient(MONGO_URI)
+    
+    db = mongo_client["financial_rag_db"]
+    mongo_collection = db["icici_reports"]
+    
+    print("3. Restructuring data for MongoDB JSON format...")
+    mongo_documents = []
+    
+    for i in range(len(chroma_data['ids'])):
+        # --- THE CRITICAL FIX ---
+        # Get the embedding array
+        embedding_data = chroma_data['embeddings'][i]
+        
+        # If it's a numpy array, convert it to a native Python list of floats
+        if hasattr(embedding_data, "tolist"):
+            embedding_data = embedding_data.tolist()
+        # ------------------------
+
+        doc = {
+            "_id": chroma_data['ids'][i],                      
+            "rag_text": chroma_data['documents'][i],           
+            "page_number": chroma_data['metadatas'][i]['page_number'], 
+            "text_embedding": embedding_data     # <--- Now a clean Python list!
+        }
+        mongo_documents.append(doc)
+        
+    if mongo_documents:
+        print(f"4. Pushing {len(mongo_documents)} chunks with embeddings to MongoDB...")
+        mongo_collection.delete_many({}) 
+        
+        mongo_collection.insert_many(mongo_documents)
+        print("🚀 Success! Your vectors and markdown text are safely stored in MongoDB.")
+    else:
+        print("❌ No data found inside the Chroma collection.")
+
+# --- How to invoke it ---
+# Pass your active 'my_collection' variable directly into the function
+push_chroma_to_mongodb(my_collection)
+
+# ----------------------------------------MONGODB Searching and peeking----------------------------
+from pymongo import MongoClient
+
+# Connect to MongoDB
+client = MongoClient(MONGO_URI)
+db = client["financial_rag_db"]
+mongo_collection = db["icici_reports"]
+
+print("\n========== 1. PEEKING INSIDE MONGODB ==========")
+# Grab exactly 1 document from the collection
+peek_data = mongo_collection.find_one()
+
+if peek_data:
+    print(f"Document ID: {peek_data['_id']}")
+    print(f"Page Number: {peek_data['page_number']}")
+    print(f"Text Snippet: {peek_data['rag_text'][:150]}...")
+    
+    # Extract the actual mathematical vector array
+    vector = peek_data['text_embedding']
+    print(f"\nVector Dimensions (Length): {len(vector)} numbers")
+    print(f"First 5 numbers of the embedding: {vector[:5]}")
+else:
+    print("Database is empty!")
