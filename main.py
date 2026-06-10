@@ -1,8 +1,5 @@
-import fitz
-import csv
 import pandas as pd
 import pymupdf4llm
-import pymupdf
 import chromadb
 from pymongo import MongoClient
 
@@ -92,7 +89,6 @@ def extract_pdf_for_rag(pdf_path):
     # The magic parameter: page_chunks=True
     # This automatically splits the extraction page-by-page and preserves tables as Markdown
     page_chunks = pymupdf4llm.to_markdown(pdf_path, page_chunks=True)
-    print(page_chunks[15]["metadata"])
     
     all_rag_context = []
     
