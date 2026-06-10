@@ -9,6 +9,8 @@ def split_page_by_layout(page_chunks):
     into individual elements: Header/Text chunks and Table chunks.
     """
     advanced_chunks = []
+
+    chunk_counter = 1
     
     for page in page_chunks:
         raw_text = page["text"]
@@ -22,7 +24,7 @@ def split_page_by_layout(page_chunks):
         lines = raw_text.split("\n")
         current_block = []
         is_table = False
-        chunk_counter = 1
+        
         
         for line in lines:
             # Check if the line belongs to a markdown table
@@ -57,11 +59,13 @@ def split_page_by_layout(page_chunks):
                     "source": source_file,
                     "element_type": "table" if is_table else "text"
                 })
+                chunk_counter+1
                 
     return advanced_chunks
 
 # --- How to use it in your code ---
-basic_pages = pymupdf4llm.to_markdown(r"C:/Users/itinf/Downloads/icici.pdf", page_chunks=True)
+basic_pages = pymupdf4llm.to_markdown(r"C:/Users/itinf/Downloads/SBI.pdf", page_chunks=True)
 structured_chunks = split_page_by_layout(basic_pages)
 print(len(structured_chunks))
-print(structured_chunks[0])
+ids = [chunk["id"] for chunk in structured_chunks]
+print(ids)
