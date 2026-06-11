@@ -25,7 +25,6 @@ def split_page_by_layout(page_chunks):
         current_block = []
         is_table = False
         
-        
         for line in lines:
             # Check if the line belongs to a markdown table
             is_table_line = "|" in line
@@ -36,9 +35,9 @@ def split_page_by_layout(page_chunks):
                     block_text = "\n".join(current_block).strip()
                     if block_text:
                         advanced_chunks.append({
-                            "id":chunk_counter,
+                            "id": chunk_counter,
                             "rag_text": block_text,
-                            "page_number": f"Page Number:{page_num}",
+                            "page": f"Page Number:{page_num}",
                             "source": source_file,
                             "element_type": "table" if is_table else "text"
                         })
@@ -53,19 +52,21 @@ def split_page_by_layout(page_chunks):
             block_text = "\n".join(current_block).strip()
             if block_text:
                 advanced_chunks.append({
-                    "id":chunk_counter,
+                    "id": chunk_counter,
                     "rag_text": block_text,
                     "page": f"Page Number:{page_num}",
                     "source": source_file,
                     "element_type": "table" if is_table else "text"
                 })
-                chunk_counter+1
+                chunk_counter += 1 # FIXED: Using assignment addition operator
                 
     return advanced_chunks
 
 # --- How to use it in your code ---
-basic_pages = pymupdf4llm.to_markdown(r"C:/Users/itinf/Downloads/SBI.pdf", page_chunks=True)
+basic_pages = pymupdf4llm.to_markdown(r"C:/Users/itinf/Downloads/icici.pdf", page_chunks=True)
 structured_chunks = split_page_by_layout(basic_pages)
 print(len(structured_chunks))
+print(structured_chunks[2])
+
 ids = [chunk["id"] for chunk in structured_chunks]
 print(ids)
